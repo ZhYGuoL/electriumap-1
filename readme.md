@@ -22,4 +22,4 @@
 
 ### Backend
 
-- Zhiyuan Guo, @ZhYGuoL
+- *(Lead) Zhiyuan Guo, @ZhYGuoL*
